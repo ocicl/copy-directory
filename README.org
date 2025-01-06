@@ -2,9 +2,8 @@
 
 Copy a directory, using the cp command when available
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ceramic/copy-directory.git   |
-| commit  | 9a3834b  |
-| systems | copy-directory |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/ceramic/copy-directory.git |
+| commit  | 6926cbb                                           |
+| systems | copy-directory                                    |
+|---------+---------------------------------------------------|
